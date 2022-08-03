@@ -3,6 +3,9 @@ Rencana Konten
 -membuat video coding
   *membuat video code react
   *membuat video laravel
+  *membuat video coding algorithm
+   ^ hackerrank solution
+-membuat video streaming
 -membuat podcast
   *membuat podcast horor
    ^mengundang teman sebagai narasumber
