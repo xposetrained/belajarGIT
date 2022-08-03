@@ -1,0 +1,6 @@
+resolusi 2022
+-belajar git
+-belajar react
+-mengerjakan algoritma di hackerrank
+-mengerjakan cssbattle
+-mendaftar kerja
