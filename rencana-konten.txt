@@ -5,7 +5,10 @@ Rencana Konten
   *membuat video laravel
   *membuat video coding algorithm
    ^ hackerrank solution
+   ^ cssbattle.dev
 -membuat video streaming
+ ^ game mobile legend
+ ^ game-game lain
 -membuat podcast
   *membuat podcast horor
    ^mengundang teman sebagai narasumber
